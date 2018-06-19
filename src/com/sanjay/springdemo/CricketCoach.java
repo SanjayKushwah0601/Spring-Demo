@@ -13,4 +13,10 @@ public class CricketCoach implements Coach {
 	public String getDailyWorkout() {
 		return "Let's do 30 minutes catching practice.";
 	}
+
+	@Override
+	public String getDailyFortune() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
